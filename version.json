@@ -1,0 +1,6 @@
+{
+  "name": "Lead Bridge",
+  "latest": "2.23.0",
+  "note": "Every situation now has a result out of the box, so it never parks on a lead. Light/dark is a choice.",
+  "howToUpdate": "git pull in the lead-bridge-install folder, then press the circular reload arrow on the extension card in Chrome."
+}
