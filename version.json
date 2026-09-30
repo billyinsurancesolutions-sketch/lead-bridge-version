@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.27.1",
-  "note": "The comment box is left alone. If VanillaSoft refuses to save a result without one, the tool writes that result name and nothing else - No Contact for No Contact, MediCAID for MediCAID. Works on older VanillaSoft builds too.",
+  "latest": "2.27.2",
+  "note": "When VanillaSoft says it is too soon to file a lead, the tool now waits and tries again up to three times instead of once. A lead that was one second from filing used to be skipped.",
   "howToUpdate": "Nothing to do \u2014 it looks after itself. Your Claude can set up the hourly pull if it has not already."
 }
