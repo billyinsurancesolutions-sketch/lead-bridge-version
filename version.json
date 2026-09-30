@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.25.2",
-  "note": "Fixes the copy that installed but never started: defaults.js is back in the repo and a missing one can no longer take the service worker down. A result Ringy has no matching disposition for now names itself in the panel instead of showing blank.",
+  "latest": "2.25.3",
+  "note": "Instructions for a new agent name the right buttons and now have to watch two leads through before saying it works. Two misleading code comments corrected.",
   "howToUpdate": "git pull in your Lead Bridge folder, then press the circular reload arrow on the extension card in Chrome."
 }
