@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.26.0",
-  "note": "It updates itself now. Once an hour it checks the folder on disk and restarts itself if it is newer, never mid-run. And the Update ready message clears the moment the update is actually taken instead of sitting there for an hour.",
+  "latest": "2.27.0",
+  "note": "IMPORTANT: the tool no longer writes anything into the VanillaSoft comment box. It only writes when VanillaSoft refuses to save a result without one (Medicare, MediCAID, Sold, Insured, Employer, DNC, ACAsubsidy) and then it writes just that result name and nothing else. Update straight away.",
   "howToUpdate": "Nothing to do \u2014 it looks after itself. Your Claude can set up the hourly pull if it has not already."
 }
