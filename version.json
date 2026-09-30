@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.27.3",
-  "note": "A lead VanillaSoft is still holding is now retried up to three times instead of once, so it is not skipped a second from filing.",
+  "latest": "2.28.0",
+  "note": "Pacing. The wait between leads is a fresh random number inside your range every time, and it now takes a 60 to 80 second break every 30 to 50 leads. Taking this update sets you to 20-36 seconds with breaks on; all six numbers are boxes on the Lead tab.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
