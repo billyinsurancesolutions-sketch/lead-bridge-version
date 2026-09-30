@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.27.2",
-  "note": "When VanillaSoft says it is too soon to file a lead, the tool now waits and tries again up to three times instead of once. A lead that was one second from filing used to be skipped.",
-  "howToUpdate": "Nothing to do \u2014 it looks after itself. Your Claude can set up the hourly pull if it has not already."
+  "latest": "2.27.3",
+  "note": "A lead VanillaSoft is still holding is now retried up to three times instead of once, so it is not skipped a second from filing.",
+  "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
