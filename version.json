@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.25.3",
-  "note": "Instructions for a new agent name the right buttons and now have to watch two leads through before saying it works. Two misleading code comments corrected.",
-  "howToUpdate": "git pull in your Lead Bridge folder, then press the circular reload arrow on the extension card in Chrome."
+  "latest": "2.26.0",
+  "note": "It updates itself now. Once an hour it checks the folder on disk and restarts itself if it is newer, never mid-run. And the Update ready message clears the moment the update is actually taken instead of sitting there for an hour.",
+  "howToUpdate": "Nothing to do \u2014 it looks after itself. Your Claude can set up the hourly pull if it has not already."
 }
