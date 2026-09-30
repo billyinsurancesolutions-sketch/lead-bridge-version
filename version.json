@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.27.0",
-  "note": "IMPORTANT: the tool no longer writes anything into the VanillaSoft comment box. It only writes when VanillaSoft refuses to save a result without one (Medicare, MediCAID, Sold, Insured, Employer, DNC, ACAsubsidy) and then it writes just that result name and nothing else. Update straight away.",
+  "latest": "2.27.1",
+  "note": "The comment box is left alone. If VanillaSoft refuses to save a result without one, the tool writes that result name and nothing else - No Contact for No Contact, MediCAID for MediCAID. Works on older VanillaSoft builds too.",
   "howToUpdate": "Nothing to do \u2014 it looks after itself. Your Claude can set up the hourly pull if it has not already."
 }
