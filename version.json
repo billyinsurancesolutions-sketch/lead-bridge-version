@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.31.0",
-  "note": "The run no longer stops after one awkward lead. A lead that will not file is skipped and it carries straight on; it only gives up if five in a row fail.",
+  "latest": "2.31.1",
+  "note": "Fixes the run sitting on one lead while still saying running. If VanillaSoft has not moved on after a full gap, the lead is pressed again; five failures in a row stop the run.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
