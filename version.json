@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.30.6",
-  "note": "Fixes everything seen on 1 Oct: the tool working the wrong VanillaSoft tab, presses that had actually filed being reported as failures, the run freezing with no timer, and the pop-out window showing a lead VanillaSoft had already moved past.",
+  "latest": "2.31.0",
+  "note": "The run no longer stops after one awkward lead. A lead that will not file is skipped and it carries straight on; it only gives up if five in a row fail.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
