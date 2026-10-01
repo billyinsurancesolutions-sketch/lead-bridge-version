@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.30.0",
-  "note": "Fixes the tool freezing with no timer and no error. A leftover VanillaSoft frame could accept a message and never answer it, and every wait in the tool was unbounded, so the run stopped mid-step in silence. Every message now has a deadline.",
+  "latest": "2.30.1",
+  "note": "Fixes \"no VanillaSoft lead on screen in that tab\" when the lead is right there. Reloading the extension strips its reader out of open VanillaSoft tabs; it now puts it back by itself and looks again. No need to close or refresh the tab.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
