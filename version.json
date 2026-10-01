@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.30.1",
-  "note": "Fixes \"no VanillaSoft lead on screen in that tab\" when the lead is right there. Reloading the extension strips its reader out of open VanillaSoft tabs; it now puts it back by itself and looks again. No need to close or refresh the tab.",
+  "latest": "2.30.6",
+  "note": "Fixes everything seen on 1 Oct: the tool working the wrong VanillaSoft tab, presses that had actually filed being reported as failures, the run freezing with no timer, and the pop-out window showing a lead VanillaSoft had already moved past.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
