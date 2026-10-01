@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.29.0",
-  "note": "IMPORTANT. Fixes the tool going dead after an update. Reloading the extension threw the page reader out of VanillaSoft tabs that were already open and never put it back, so every read said no lead on screen. It now puts itself back, and cannot end up with two readers in one page.",
+  "latest": "2.30.0",
+  "note": "Fixes the tool freezing with no timer and no error. A leftover VanillaSoft frame could accept a message and never answer it, and every wait in the tool was unbounded, so the run stopped mid-step in silence. Every message now has a deadline.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
