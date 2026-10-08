@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.32.0",
-  "note": "New switch on the Lead tab: Stop VanillaSoft dialling. VanillaSoft dials by itself after every result, so working a list made VSConnect try to connect on every lead - taking your keyboard and ringing people nobody meant to ring. With this on, nothing is dialled. Off by default.",
+  "latest": "2.33.0",
+  "note": "The day figures now tell the truth. A press that failed is no longer counted as filed, a second attempt at the same contact is no longer counted as another lead, and a contact VanillaSoft re-shows after it was already filed is left alone instead of being pressed at over and over.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
