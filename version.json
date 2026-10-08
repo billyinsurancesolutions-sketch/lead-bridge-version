@@ -1,6 +1,6 @@
 {
   "name": "Lead Bridge",
-  "latest": "2.31.1",
-  "note": "Fixes the run sitting on one lead while still saying running. If VanillaSoft has not moved on after a full gap, the lead is pressed again; five failures in a row stop the run.",
+  "latest": "2.32.0",
+  "note": "New switch on the Lead tab: Stop VanillaSoft dialling. VanillaSoft dials by itself after every result, so working a list made VSConnect try to connect on every lead - taking your keyboard and ringing people nobody meant to ring. With this on, nothing is dialled. Off by default.",
   "howToUpdate": "Say to your Claude: update Lead Bridge"
 }
